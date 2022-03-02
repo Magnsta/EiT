@@ -7,7 +7,7 @@ function initMap() {
     });
     const contentInfo ='<div class="infowrapper text-dark">'+
     '<p>Rent this boat</p>'+
-    '<ul><li><a href="map.html">Start Renting</a></li></ul>'+
+    '<ul><li><a href="renting.html">Start Renting</a></li></ul>'+
     '</div>';
     const infoWindow = new google.maps.InfoWindow({
         content: contentInfo,
