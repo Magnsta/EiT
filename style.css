@@ -10,9 +10,9 @@ body {
 div.Renting {
   font-family: Garamond, serif;
   width: 100%; 
-  padding 15px; 
-  /* border: 1px solid #000000;  */
-  background-color: #ffffff; 
+  padding 20px; 
+  border: 1px solid #000000; 
+  /* background-color: #ffffff;  */
   color: #000000; 
   margin: auto; 
   text-align: center;}
